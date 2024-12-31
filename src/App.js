@@ -1,5 +1,5 @@
 import './App.css';
-import { Routes, Route } from 'react-router-dom';
+import { HashRouter as Routes, Route } from 'react-router-dom';
 import MainPage from './components/MainPage';
 import RolesDisplay from './components/RolesDisplay';
 
