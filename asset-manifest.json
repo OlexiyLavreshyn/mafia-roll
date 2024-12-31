@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/OlexiyLavreshyn/mafia-roll/static/css/main.415cad4c.css",
-    "main.js": "/OlexiyLavreshyn/mafia-roll/static/js/main.5b7cb7e3.js",
-    "static/js/488.3851f6c8.chunk.js": "/OlexiyLavreshyn/mafia-roll/static/js/488.3851f6c8.chunk.js",
-    "index.html": "/OlexiyLavreshyn/mafia-roll/index.html",
-    "main.415cad4c.css.map": "/OlexiyLavreshyn/mafia-roll/static/css/main.415cad4c.css.map",
-    "main.5b7cb7e3.js.map": "/OlexiyLavreshyn/mafia-roll/static/js/main.5b7cb7e3.js.map",
-    "488.3851f6c8.chunk.js.map": "/OlexiyLavreshyn/mafia-roll/static/js/488.3851f6c8.chunk.js.map"
+    "main.css": "/mafia-roll/static/css/main.415cad4c.css",
+    "main.js": "/mafia-roll/static/js/main.244c71ee.js",
+    "static/js/488.3851f6c8.chunk.js": "/mafia-roll/static/js/488.3851f6c8.chunk.js",
+    "index.html": "/mafia-roll/index.html",
+    "main.415cad4c.css.map": "/mafia-roll/static/css/main.415cad4c.css.map",
+    "main.244c71ee.js.map": "/mafia-roll/static/js/main.244c71ee.js.map",
+    "488.3851f6c8.chunk.js.map": "/mafia-roll/static/js/488.3851f6c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.415cad4c.css",
-    "static/js/main.5b7cb7e3.js"
+    "static/js/main.244c71ee.js"
   ]
 }
