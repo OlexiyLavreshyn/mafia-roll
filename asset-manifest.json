@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mafia-roll/static/css/main.415cad4c.css",
-    "main.js": "/mafia-roll/static/js/main.ef118127.js",
+    "main.js": "/mafia-roll/static/js/main.44509fba.js",
     "static/js/488.3851f6c8.chunk.js": "/mafia-roll/static/js/488.3851f6c8.chunk.js",
     "index.html": "/mafia-roll/index.html",
     "main.415cad4c.css.map": "/mafia-roll/static/css/main.415cad4c.css.map",
-    "main.ef118127.js.map": "/mafia-roll/static/js/main.ef118127.js.map",
+    "main.44509fba.js.map": "/mafia-roll/static/js/main.44509fba.js.map",
     "488.3851f6c8.chunk.js.map": "/mafia-roll/static/js/488.3851f6c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.415cad4c.css",
-    "static/js/main.ef118127.js"
+    "static/js/main.44509fba.js"
   ]
 }
