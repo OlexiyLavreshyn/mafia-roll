@@ -1,0 +1,150 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #3d3d3d;
+}
+
+.container {
+  text-align: center;
+  background: #696969;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.player-selection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.player-count {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 10px 0;
+  width: 40px; /* Ensures all buttons are the same width */
+  font-size: 1rem;
+  text-align: center;
+  border: none;
+  background: #2b2b2b;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+.start-btn {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border: none;
+  background: #28a745;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.start-btn:hover {
+  background: #218838;
+}
+
+.roles-selection {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.role {
+  display: grid;
+  grid-template-columns: 150px 50px 50px 50px;
+  align-items: center;
+  justify-items: center;
+  width: 300px;
+}
+
+.role-name {
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-align: left;
+  justify-self: start;
+}
+
+.role-count {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.start-btn {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.start-btn.active {
+  background: #28a745; /* Green */
+  color: #fff;
+}
+
+.start-btn.inactive {
+  background: #dc3545; /* Red */
+  color: #fff;
+  cursor: not-allowed;
+}
+
+.next-btn{
+  padding-top: 15px;
+}
+
+.assigned-roles {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.assigned-roles h2 {
+  margin-bottom: 10px;
+}
+
+.assigned-roles ul {
+  list-style: none;
+  padding: 0;
+}
+
+.assigned-roles li {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.back-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border: none;
+  cursor: pointer;
+  background: #2b2b2b;
+  color: #c7c7c7;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.back-btn:hover {
+  background: #4d4d4d;
+}
